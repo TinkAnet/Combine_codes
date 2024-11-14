@@ -10,6 +10,9 @@ This tool recursively scans a directory and its subdirectories, combining all re
 ## Installation
 
 Clone this repository and ensure you have Python 3 installed.
+```bash
+git clone https://github.com/TinkAnet/Combine_codes.git
+```
 
 ## Usage
 ### Run the script with customizable options for input directory, output file, and file extensions.
